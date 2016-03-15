@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/homeItem"
+        android:title="@string/welcome"/>
+    <item
+        android:id="@+id/loginItem"
+        android:title="@string/login"/>
+    <item
+        android:id="@+id/signupItem"
+        android:title="@string/signup"/>
+    
+
+</menu>
